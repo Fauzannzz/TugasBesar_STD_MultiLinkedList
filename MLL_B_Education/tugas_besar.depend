@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1671991131 source:d:\college\semester 3\praktikum std\project\tugas besar\tugas_besar\main.cpp
+	"education.h"
+
+1671990435 d:\college\semester 3\praktikum std\project\tugas besar\tugas_besar\education.h
+	<iostream>
+
+1671990829 source:d:\college\semester 3\praktikum std\project\tugas besar\tugas_besar\education.cpp
+	"education.h"
+	"map"
+
+1672664778 source:d:\college\semester 3\praktikum std\project\tugas_besar\main.cpp
+	"education.h"
+
+1672636658 d:\college\semester 3\praktikum std\project\tugas_besar\education.h
+	<iostream>
+
+1672668157 source:d:\college\semester 3\praktikum std\project\tugas_besar\education.cpp
+	"education.h"
+
